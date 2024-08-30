@@ -62,3 +62,5 @@ class ProductManager {
 }
 
 module.exports = ProductManager;
+
+//implementar as demais informações que pede //
